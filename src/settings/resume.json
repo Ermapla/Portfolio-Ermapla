@@ -1,0 +1,139 @@
+{
+    "basics": {
+        "name": "Erwin Massa",
+        "label": "Desarrollo Web",
+        "email": "ermapla@gmail.com",
+        "phone": "(XXX) XXX-XXXX",
+        "picture": "em.png",
+        "x_title": "Saludos",
+        "job1": "Desarrollo",
+        "job2": "Web",
+        "description": "Hola! Soy Erwin! Un entusiasta desarrollador web. A la espera de un nuevo desafio! Estoy aqui para ayudarte en tu proxima idea de desarrollo.",
+        "summary": "Madrid, España.",
+        "keywords": "",
+        "url": "",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Madrid",
+            "country": "España",
+            "countryCode": "ES",
+            "region": "ComunidadeMadrid"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "ermapla@gmail.com",
+                "url": "mailto:ermapla@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "ermapla",
+                "url": "https://www.linkedin.com/in/ermapla/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "ermapla",
+                "url": "https://github.com/Ermapla",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "Telegram",
+                "username": "ermapla",
+                "url": "https://t.me/ermapla",
+                "x_icon": "fab fa-telegram-plane"
+            },
+            {
+                "network": "Discord",
+                "username": "Ermapla#6803",
+                "url": "https://discord.com",
+                "x_icon": "fab fa-discord"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": "",
+            "highlights": [""]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": "",
+            "highlights": [""]
+        }
+    ],
+    "education": [
+        {
+            "institution": "",
+            "area": "",
+            "studyType": "",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [""]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "date": "",
+            "awarder": "",
+            "summary": ""
+        }
+    ],
+    "publications": [
+        {
+            "name": "",
+            "publisher": "",
+            "releaseDate": "",
+            "website": "",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        },
+        {
+            "language": "French",
+            "fluency": "Good knowledge"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["", ""]
+        }
+    ],
+    "references": [
+        {
+            "name": "",
+            "reference": ""
+        }
+    ]
+}
